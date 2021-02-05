@@ -2,4 +2,3 @@ Basic commands
 --------------
 show ip route 
 show ip int br 
-show ip protocols
